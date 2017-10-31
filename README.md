@@ -23,5 +23,10 @@ All the features listed above as well as:
 - Add a game or two to the project and have the ability to save the scores of the user.
 - Speech regonition to open the apps and do certain commands.
 - Better and cleaner UI with images in place of empty buttons (e.g. shutdown button) which in turn, improves the UX.
+
+### Special Features
+- Saving files to the user’s computer and parsing it later to be able to retrieve the data (e.g. on paint).
+- Nice UI. (hopefully)
+
 ---
 ##### Omar Sinan
